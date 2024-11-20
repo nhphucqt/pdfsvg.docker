@@ -48,7 +48,7 @@ def main():
             args.pdf, output_svg
         ])
 
-        print(f"Saved figure {i + 1} as {output_svg}")
+        print(f"Saved as {output_svg}")
 
 if __name__ == "__main__":
     main()
